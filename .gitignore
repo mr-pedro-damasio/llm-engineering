@@ -12,6 +12,9 @@ Thumbs.db
 *.swp
 *.swo
 
+# Python virtual environment
+.venv/
+
 # Logs
 *.log
 logs/
