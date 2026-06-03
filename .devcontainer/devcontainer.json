@@ -1,6 +1,6 @@
 {
   "name": "${localWorkspaceFolderBasename}-devcontainer",
-  "image": "mcr.microsoft.com/devcontainers/python:3.14",
+  "image": "mcr.microsoft.com/devcontainers/python:3.13",
   "features": {
     "ghcr.io/devcontainers/features/copilot-cli:1": {},
     "ghcr.io/devcontainers/features/github-cli:1": {},
